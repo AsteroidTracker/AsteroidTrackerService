@@ -1,7 +1,7 @@
 [
 {
 "name":"(2012 MD7)",
-"closeApproachDate":"2012-Jun-21",
+"closeApproachDate_Str":"2012-Jun-21",
 "missDistance_AU":"0.0406",
 "missDistance_LD":"15.8",
 "EstimatedDiameter":"41 m - 92 m",
@@ -10,7 +10,7 @@
 },
 {
 "name":"308242 (2005 GO21)",
-"closeApproachDate":"2012-Jun-21",
+"closeApproachDate_Str":"2012-Jun-21",
 "missDistance_AU":"0.0440",
 "missDistance_LD":"17.1",
 "EstimatedDiameter":"1.4 km - 3.1 km",
