@@ -3,7 +3,7 @@
 "title": "Asteroind found",
 "artcileUrl": "google.com",
 "pubDate": "2012-Jun-21",
-"imgURL": "google.com",
+"imgURL": "",
 "source": "AsteroidTracker"
 },
 {
@@ -11,7 +11,7 @@
 "artcileUrl": "google.com",
 "description": "It gonna be really cool",
 "pubDate": "2012-Jun-21",
-"imgURL": "google.com",
+"imgURL": "",
 "source": "AsteroidTracker"
 },
 {
@@ -19,7 +19,7 @@
 "artcileUrl": "google.com",
 "description": "It gonna be really cool",
 "pubDate": "2012-Jun-21",
-"imgURL": "google.com",
+"imgURL": "",
 "source": "AsteroidTracker"
 }
 ]
