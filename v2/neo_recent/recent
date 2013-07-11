@@ -1,41 +1,45 @@
-[
-    {
-        "name": "7753 (1988 XB)",
-        "close_approach_date": "2013-06-10",
-        "miss_distance_au": "0.1183",
-        "miss_distance_ld": "46.0",
-        "estimated_diameter_min": "510",
-        "estimated_diameter_max": "1.1",
-        "estimated_diameter_min_metric": "m",
-        "estimated_diameter_max_metric": "km",
-        "absolute_magnitude_h": "18.6",
-        "relative_velocity": "10.19",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=7753;orb=1"
-    },
-    {
-        "name": "(2013 NJ4)",
-        "close_approach_date": "2013-07-07",
-        "miss_distance_au": "0.0101",
-        "miss_distance_ld": "3.9",
-        "estimated_diameter_min": "8.7",
-        "estimated_diameter_max": "19",
-        "estimated_diameter_min_metric": "m",
-        "estimated_diameter_max_metric": "m",
-        "absolute_magnitude_h": "27.4",
-        "relative_velocity": "5.40",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2013NJ4;orb=1"
-    },
-    {
-        "name": "(2010 WR7)",
-        "close_approach_date": "2013-07-06",
-        "miss_distance_au": "0.1750",
-        "miss_distance_ld": "68.1",
-        "estimated_diameter_min": "54",
-        "estimated_diameter_max": "120",
-        "estimated_diameter_min_metric": "m",
-        "estimated_diameter_max_metric": "m",
-        "absolute_magnitude_h": "23.5",
-        "relative_velocity": "12.02",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2010WR7;orb=1"
-    }
-]
+{
+    "2013-06-10": [
+        {
+            "name": "7753 (1988 XB)",
+            "close_approach_date": "2013-06-10",
+            "miss_distance_au": "0.1183",
+            "miss_distance_ld": "46.0",
+            "estimated_diameter_min": "510",
+            "estimated_diameter_max": "1.1",
+            "estimated_diameter_min_metric": "m",
+            "estimated_diameter_max_metric": "km",
+            "absolute_magnitude_h": "18.6",
+            "relative_velocity": "10.19",
+            "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=7753;orb=1"
+        }
+    ],
+    "2013-07-07": [
+        {
+            "name": "(2013 NJ4)",
+            "close_approach_date": "2013-07-07",
+            "miss_distance_au": "0.0101",
+            "miss_distance_ld": "3.9",
+            "estimated_diameter_min": "8.7",
+            "estimated_diameter_max": "19",
+            "estimated_diameter_min_metric": "m",
+            "estimated_diameter_max_metric": "m",
+            "absolute_magnitude_h": "27.4",
+            "relative_velocity": "5.40",
+            "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2013NJ4;orb=1"
+        },
+        {
+            "name": "(2010 WR7)",
+            "close_approach_date": "2013-07-07",
+            "miss_distance_au": "0.1750",
+            "miss_distance_ld": "68.1",
+            "estimated_diameter_min": "54",
+            "estimated_diameter_max": "120",
+            "estimated_diameter_min_metric": "m",
+            "estimated_diameter_max_metric": "m",
+            "absolute_magnitude_h": "23.5",
+            "relative_velocity": "12.02",
+            "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2010WR7;orb=1"
+        }
+    ]
+}
