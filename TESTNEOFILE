@@ -9,8 +9,7 @@
         "estimated_diameter_min_metric": "m",
         "estimated_diameter_max_metric": "m",
         "absolute_magnitude_h": "24.0",
-        "relative_velocity": "3.99",
-        "url": "sdfklsdfk"
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2010VA76;orb=1"
     },
     {
         "name": "(2010 VA76)",
