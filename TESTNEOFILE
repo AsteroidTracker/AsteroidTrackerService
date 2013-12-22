@@ -5,10 +5,11 @@
         "miss_distance_au": "0.1989",
         "miss_distance_ld": "77.4",
         "estimated_diameter_min": "42",
-        "estimated_diameter_max": "94",
+        "estimated_diameter_max": "n/a",
         "estimated_diameter_min_metric": "m",
         "estimated_diameter_max_metric": "m",
         "absolute_magnitude_h": "24.0",
+        "relative_velocity": "3.99",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2010VA76;orb=1"
     },
     {
